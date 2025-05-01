@@ -27,5 +27,5 @@ Check out the source code to see my coding/ designing skills and have a deeper s
 
 Tech stack I used so far: Python, MSSQL, SqlAlchemy, Mediapipe, OpenCV, Kivy, logging and more..
 
-![giphy](https://user-images.githubusercontent.com/43384813/140485156-52e516f9-7717-4b90-9ff7-d0647a88cd74.gif)
-![giphy (1)](https://user-images.githubusercontent.com/43384813/140485798-2719f8c5-6dde-47d8-87d0-c2e0fea58e3f.gif)
+https://github.com/user-attachments/assets/5415cce8-48ae-47f1-a76c-10ffba53cc69
+
