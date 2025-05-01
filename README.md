@@ -27,5 +27,12 @@ Check out the source code to see my coding/ designing skills and have a deeper s
 
 Tech stack I used so far: Python, MSSQL, SqlAlchemy, Mediapipe, OpenCV, Kivy, logging and more..
 
+
+
+https://github.com/user-attachments/assets/a7aa7024-12c6-49eb-9247-4fe90ea5feaf
+
+
 https://github.com/user-attachments/assets/5415cce8-48ae-47f1-a76c-10ffba53cc69
 
+
+# AI Recommendation Application
