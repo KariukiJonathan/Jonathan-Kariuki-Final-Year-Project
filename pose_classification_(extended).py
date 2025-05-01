@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Pose classification (extended).ipynb
+"""Pose classification
 
 # Overview
 
