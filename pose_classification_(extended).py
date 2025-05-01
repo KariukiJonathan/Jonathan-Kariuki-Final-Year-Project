@@ -3,8 +3,6 @@
 
 # Overview
 
-This Colab helps to create and validate a training set for the k-NN classifier described in the MediaPipe [Pose Classification](https://google.github.io/mediapipe/solutions/pose_classification.html) soultion, test it on an arbitrary video, export to a CSV and then use it in the [ML Kit sample app](https://developers.google.com/ml-kit/vision/pose-detection/classifying-poses#4_integrate_with_the_ml_kit_quickstart_app).
-
 # Step 0: Start Colab
 
 Connect the Colab to hosted Python3 runtime (check top-right corner) and then install required dependencies.
